@@ -19,7 +19,6 @@ const ContentContainer = styled.div`
   display: flex;
   flex-direction: column;
   padding: 8rem 3rem;
-  height: 65vh;
   width: 80%;   
   margin: 0 2rem;
   background-color: #f4f4f4;
